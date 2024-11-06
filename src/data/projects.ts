@@ -46,8 +46,8 @@ const projects: IProjectItem[] = [
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/arjun3649/Portfolio",
-    url: "https://nixrajput.dev",
-    tags: ["Next.js", "Sass", "Web Development"],
+    url: "https://portfolio-3649.vercel.app/",
+    tags: ["Next.js", "Reactjs", "Web Development"],
   },
   
 ];
