@@ -37,18 +37,7 @@ const projects: IProjectItem[] = [
     url: "https://fyiassignment.vercel.app/",
     tags: ["React.js", "Nextjs","Javascript","Redux","Tailwindcss"],
   },
-  {
-    id: "portfolio-website",
-    title: "Portfolio Website",
-    description:
-      "This repository contains the source code for a portfolio website built using Next.js and Sass.",
-    icon: "/skills/nextjs.png",
-    repoType: RepoType.Public,
-    projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/arjun3649/Portfolio",
-    url: "https://portfolio-3649.vercel.app/",
-    tags: ["Next.js", "Reactjs", "Web Development"],
-  },
+  
   
 ];
 export default projects;
