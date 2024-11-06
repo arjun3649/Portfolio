@@ -45,7 +45,7 @@ const projects: IProjectItem[] = [
     icon: "/skills/nextjs.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/portfolio-website",
+    githubUrl: "https://github.com/arjun3649/Portfolio",
     url: "https://nixrajput.dev",
     tags: ["Next.js", "Sass", "Web Development"],
   },
