@@ -14,6 +14,11 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Intermediate,
         icon: "/skills/typescript.svg",
       },
+      {
+        title: "Java",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/java.svg",
+      },
       
     ],
   },

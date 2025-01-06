@@ -2,17 +2,17 @@ import { IExperienceItem } from "@/types";
 
 const experiences: IExperienceItem[] = [
   {
-    designation: "FullStack Intern",
+    designation: "Frontend Devel",
     company: "Settribe",
-    startDate: "Feb 2024",
+    startDate: "July 2023",
     endDate: "Aug 2024",
     isCurrentJob: false,
     location: "Pune, India",
     description: [
-      "Currently working on developing innovative software solutions.",
-      "Contributing to large-scale projects with a focus on performance optimization.",
-      "Collaborating closely with cross-functional teams to ensure product quality.",
-      "Adhering to clean code practices and modern development techniques.",
+      "Led the frontend development of a Grievance PortalWebsite, utilizing Angular, Tailwind CSS, and Spring Boot, ensuring seamless collaboration and project completion.",
+      "Developed the frontend for SJMAA which is a school alumni website, implementing OTP authentication using Django APIs, and creating a dynamic table component with ShadCN and TanStack to handle diverse datasets",
+      "Managed authentication systems and developed robust frontend components, including Spring Bootbased implementations.",
+      "Designed and implemented multiple responsive pages across projects, integrating APIs for dynamic and user-friendly interfaces",
     ],
   },
   

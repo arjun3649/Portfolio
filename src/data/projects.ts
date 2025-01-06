@@ -27,15 +27,15 @@ const projects: IProjectItem[] = [
   },
   {
     id: "video-calling-app-flutter",
-    title: "PlusKart",
+    title: "ZAPP",
     description:
-      "Integrated responsive design, delivering a seamless user experience across all devices.Implemented comprehensive cart functionalities, including product addition, removal, and quantity management. ",
-    icon: "/skills/nextjs.png",
+      "Designed and implemented the complete frontend for ZAPP, a grocery delivery app inspired by Blinkit, focusing on user-centric design and responsiveness. ",
+    icon: "/skills/reactnative.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/arjun3649/Fyi-assignment",
-    url: "https://fyiassignment.vercel.app/",
-    tags: ["React.js", "Nextjs","Javascript","Redux","Tailwindcss"],
+    githubUrl: "https://github.com/arjun3649/zapts",
+    url: "",
+    tags: ["React Native","Typescript","Redux","Nativewind"],
   },
   
   
